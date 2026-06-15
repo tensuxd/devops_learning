@@ -3,19 +3,19 @@
 
 * sudo apt install openssh-server -y
 * sudo systemctl status ssh
-	check is working
+	*check is working
 
 * check ip ubuntu
-	ip a
+	*ip a
 * check name 
-	whoami 
+	*whoami 
 * check port
-	sudo ss -tlnp | gapt:22
+	*sudo ss -tlnp | gapt:22
 
 # if all its true, continue to next step
 
 * open powershell
 * check ping is working 
-	ping (ip ubuntu)
+	*ping (ip ubuntu)
 * try to connect 
-	ssh name@ip
+	*ssh name@ip
