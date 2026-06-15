@@ -4,7 +4,7 @@
 ### This is my first linux project
 ### git commit, init, pull, push, merge, branch, rebase, status, add
 ### ssh-keygen -t ed25519 -C "email" (create ssh key)
-### sudo, cd, pwd, ls, mkdir, rm, touch(create file), echo, cat(read file), nano
+### sudo, cd, pwd, ls, mkdir, rm, touch(create file), echo, cat(read file), nano(open file)
 ### git remote learning (rate 3/10)
 
 ### figlet (text)
